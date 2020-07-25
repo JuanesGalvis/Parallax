@@ -1,6 +1,10 @@
 # Efecto Parallax
 > Ejemplo del efecto parallax mediante CSS
 
+### Vista:
+
+https://juanesgalvis.github.io/Parallax/
+
 ![Parallax1](https://i.ibb.co/k28ZqSD/Parallax1.png)
 
 ![Parallax2](https://i.ibb.co/pX1c0NJ/Parallax2.png)
